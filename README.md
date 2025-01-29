@@ -1,2 +1,2 @@
 # Chat_Database_API
-Technologies/Concepts Used : Node.js, Express.js, Restful API, MongoDB
+Technologies/Concepts Used : JavaScript, Node.js, Express.js, Restful API, MongoDB
